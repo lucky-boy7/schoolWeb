@@ -1,0 +1,5 @@
+网址
+http://www.wifi6.cloud:1024/user/web.php
+http://www.wifipo.vip/?ivk_sa=1024320u
+推荐  http://www.wifipo.vip/?ivk_sa=1024320u  这个更便宜（无为wifi）
+都需要使用openVPN
